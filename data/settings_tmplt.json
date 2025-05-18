@@ -1,0 +1,37 @@
+{
+  "tax": 0.87,
+  "base_salary": 0.25,
+  "bonus_salary": 0.5,
+  "kpi_salary": 0.25,
+  "contract_terms": [
+    {
+      "title": "3 месяца"
+    },
+    {
+      "title": "2 месяца"
+    },
+    {
+      "title": "1 месяц"
+    }
+  ],
+  "accept_days": [
+    {
+      "title": "7"
+    },
+    {
+      "title": "6"
+    },
+    {
+      "title": "5"
+    },
+    {
+      "title": "4"
+    },
+    {
+      "title": "3"
+    }
+  ],
+  "companies": [],
+  "positions": [],
+  "employees": []
+}

@@ -1,0 +1,5 @@
+flet==0.28.2
+flet-desktop==0.28.2
+docxtpl==0.20.0
+pyinstaller==6.13.0
+pillow==11.2.1
