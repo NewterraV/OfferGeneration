@@ -419,7 +419,7 @@ class OfferGeneratorApp:
             'email': employee["email"],
             'hr_name': f'{employee["surname"]} {employee["name"]}',
             'hr_phone': employee["phone"],
-            'job_title': employee["position"],
+            'job_title': certifying_hr["position"],
             'certifying_hr': f'{certifying_hr["name"][0]}. {certifying_hr["patronymic"][0]}. {certifying_hr["surname"]}',
         }
         data_to_insert.update(salary_data)
